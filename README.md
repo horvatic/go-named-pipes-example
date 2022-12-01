@@ -1,0 +1,1 @@
+# go-named-pipes-example
